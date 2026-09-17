@@ -27,6 +27,19 @@ The Tableau workbook contains interactive dashboards designed to explore the Adv
 ### Dashboard Preview
 
 ![Adventure Works Tableau Dashboard](./WhatsApp%20Image%202026-09-17%20at%204.44.32%20PM.png)
+ 🔍 Key Insights
+
+The dashboard helps analyze:
+
+- Sales and business performance trends
+- Product-level performance
+- Regional performance
+- Customer and order patterns
+- Trends and relationships within the dataset
+
+ 📈 Business Value
+
+The analysis transforms raw business data into interactive visual insights that can support performance monitoring and data-driven decision making.
 
  📁 Project File
 
