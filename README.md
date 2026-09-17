@@ -24,6 +24,9 @@ This project analyzes the Adventure Works dataset using Tableau to identify busi
  📊 Dashboard
 
 The Tableau workbook contains interactive dashboards designed to explore the Adventure Works dataset and present key business insights visually.
+### Dashboard Preview
+
+![Adventure Works Tableau Dashboard](./WhatsApp%20Image%202026-09-17%20at%204.44.32%20PM.png)
 
  📁 Project File
 
